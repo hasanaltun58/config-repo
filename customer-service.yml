@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: customer-service
+
+security:
+  jwt:
+    secret: "my-very-secret-key"
+    expiration: 3600
