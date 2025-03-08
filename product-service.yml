@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: product-service
+
+custom:
+  aiEnabled: true
+  cacheDuration: 10
